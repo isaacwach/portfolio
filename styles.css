@@ -1,0 +1,14 @@
+.hero-section {
+    display: flex;
+    flex: wrap;
+}
+.intro {
+    padding-top: 100px;
+    width: 70%;
+    padding-left: 150px;
+}
+
+.workspace {
+    width: 1000px;
+    height: 600px;
+}

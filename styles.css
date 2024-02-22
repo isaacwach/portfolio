@@ -12,3 +12,11 @@
     width: 1000px;
     height: 600px;
 }
+
+h1 {
+    color: orange;
+}
+
+.inro p {
+    font-size: 60px;
+}
